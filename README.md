@@ -20,11 +20,17 @@ If you have resources to add, just send me a PR.
 
 ## Tutorials
 
+- https://www.korg.com/us/support/download/manual/0/842/4469/ The original manual for ARP 2600 - it is a very accessible guide to synthesis and some say one of the best books on the topic.
+
 ### Newbies start here
 
 ## Patches
 
+- https://www.korg.com/us/support/download/manual/0/842/4471/ The original patchbook of the ARP 2600
+
 ### Classic sounds
+
+### User patches
 
 ### Patch sheets
 
