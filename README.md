@@ -4,6 +4,9 @@ If you have resources to add, just send me a PR.
 
 ## Manufacturer links
 
+- Official page https://www.behringer.com/product.html?modelCode=P0DNJ
+
+
 ### Add-ons
 
 ## Considering a 2600?
