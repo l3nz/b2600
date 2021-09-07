@@ -6,19 +6,21 @@ If you have resources to add, just send me a PR.
 
 ### Add-ons
 
-## Reviews
+## Considering a 2600?
 
+### Reviews
 
-## Demos
+### Demos
 
+## Tutorials
+
+### Newbies start here
 
 ## Patches
-
 
 ### Classic sounds
 
 ### Patch sheets
-
 
 
 ## How-tos
