@@ -48,7 +48,7 @@ Soft Synths
 
 ## Patchbooks
 
-- The *ARP 2600 to Behringer 2600 patch book* by Carl Brachter, a rewrite of the original ARP 2600 patchbook with  corrections and adaptation for the Behringer 2600: https://drive.google.com/file/d/1XCkiaPhJBiuia3Urrf9Ppjib59r6vRTV/view (PDF) or https://drive.google.com/file/d/1_0YwAYbLPfCPwCHEXa53IPnLSyviuqnR/view (ePub)
+- The *ARP 2600 to Behringer 2600 patch book* by Carl Bratchter, a rewrite of the original ARP 2600 patchbook with  corrections and adaptation for the Behringer 2600: https://drive.google.com/file/d/1XCkiaPhJBiuia3Urrf9Ppjib59r6vRTV/view (PDF) or https://drive.google.com/file/d/1_0YwAYbLPfCPwCHEXa53IPnLSyviuqnR/view (ePub)
 - The original *ARP 2600 patchbook*: https://www.korg.com/us/support/download/manual/0/842/4471/ 
 
 ### Classic sounds
