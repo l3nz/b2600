@@ -1,4 +1,4 @@
-# A curated list of resources on the Behringer 2600  synthesizers
+# A curated list of resources on the Behringer 2600 synthesizers
 
 As the Behringer 2600s are clones of the ARP 2600s from the 70s, and the same goes for the Korg ARP 2600 FS re-issue, materials included on this page work for all three, as well as for soft-synths.
 
