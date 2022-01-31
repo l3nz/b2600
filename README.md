@@ -44,7 +44,7 @@ Soft Synths
 
 ### Newbies start here
 
-
+- What are duophonic modes and how to use them: https://www.youtube.com/watch?v=8pKgQFLDAHg
 
 ## Patchbooks
 
