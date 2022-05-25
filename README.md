@@ -30,6 +30,7 @@ Soft Synths
 ## Considering a 2600?
 
 - The ARP 2600 https://en.wikipedia.org/wiki/ARP_2600
+- "Elecromotive - the story of ARP instruments" is a must-watch https://www.youtube.com/watch?v=l31RXiVSI9s
 
 ### Reviews
 
