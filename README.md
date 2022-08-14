@@ -45,6 +45,7 @@ Soft Synths
 
 ### Newbies start here
 
+- Getting sound out of your Behringer 2600: https://www.sweetwater.com/sweetcare/articles/how-to-get-sound-out-of-a-behringer-2600/
 - What are duophonic modes and how to use them: https://www.youtube.com/watch?v=8pKgQFLDAHg
 
 ## Patchbooks
@@ -58,6 +59,9 @@ Soft Synths
 ### User patches
 
 ### Patch sheets
+
+- A nice, clean PDF patch sheet is available from http://www.vo1t.com/Euro/Barp2600PatchSheet.pdf
+- An "heavier" one: https://www.sweetwater.com/sweetcare/media/2021/03/Behringer-2600-blank-patch-sheet.pdf
 
 
 ## How-tos
