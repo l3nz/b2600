@@ -15,8 +15,6 @@ Behringer 2600
 - SysEx bend range: https://mediadl.musictribe.com/media/PLM/data/docs/P0DNJ/Sysex-Information_BE_2600_2021-03-10.pdf
 
 
-
-
 KORG
 
 - Official page: https://www.korg.com/us/products/synthesizers/arp2600_m/
@@ -44,6 +42,7 @@ Soft Synths
 
 - *Fundamentals of Music Technology: The ARP 2600* by Sam Ecoff - https://www.samecoff.com/works/ - a free book about the ARP 2600, with exercises and recordings of results. Also available in Spanish.
 -  The original *ARP 2600 User Manual* - https://www.korg.com/us/support/download/manual/0/842/4469/- it is a very accessible guide to synthesis and some say one of the best books on the topic.
+- *Arp 2600 tutorials* by EthanJamesMusic - https://www.youtube.com/playlist?list=PLwKFiLdtN6B24mByATreFSpFwGu2sH4HT - a series of 30+ hands-on short videos that go from generating a simple tone to advanced topics like rhythm generation and guitar processing.
 
 ### Newbies start here
 
